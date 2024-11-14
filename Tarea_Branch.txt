@@ -4,3 +4,13 @@ Es una instancia de una clase, que es una plantilla o un modelo que define un co
 Son variables que pertenecen a una clase y representan las características o propiedades que describen el estado de un objeto.
 3.¿Qué es un método?
 Es una función que está definida dentro de una clase y que opera sobre los datos de los objetos de esa clase.
+4.¿Qué es una clase?
+
+
+
+
+
+
+
+
+
