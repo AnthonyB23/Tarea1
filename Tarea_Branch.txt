@@ -8,7 +8,7 @@ Es una función que está definida dentro de una clase y que opera sobre los dat
 Una clase es una estructura que define un tipo de objeto, sus características y lo que puede hacer. Los objetos son instancias de una clase.
 5.¿Qué es la abstracción?
 Es el proceso de ocultar los detalles internos de un objeto y mostrar solo la funcionalidad que es relevante para el usuario o para otros objetos.
-
+6.¿Qué es polimorfismo?
 
 
 
