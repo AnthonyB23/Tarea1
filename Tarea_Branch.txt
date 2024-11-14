@@ -1,1 +1,2 @@
 1.¿Qué es un objeto?
+Es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos
