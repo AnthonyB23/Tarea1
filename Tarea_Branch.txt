@@ -2,3 +2,4 @@
 Es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos
 2.¿Qué es un atributo?
 Son variables que pertenecen a una clase y representan las características o propiedades que describen el estado de un objeto.
+3.¿Qué es un método?
