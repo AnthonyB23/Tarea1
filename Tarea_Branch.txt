@@ -17,3 +17,4 @@ Es una herramienta útil para mostrar las instancias de clases en un sistema ori
 9.¿Qué es un objeto instanciado?
 Es una ocurrencia específica de una clase, creada y almacenada en memoria, con valores asignados a sus atributos y con la capacidad de ejecutar sus métodos.
 10.¿Qué es una variable de clase?
+Se utiliza para almacenar información que es común a todos los objetos de una clase, en lugar de almacenar información específica de cada objeto.
